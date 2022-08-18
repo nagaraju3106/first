@@ -1,1 +1,3 @@
 # first
+this is first example with practies
+this is sample example.....
